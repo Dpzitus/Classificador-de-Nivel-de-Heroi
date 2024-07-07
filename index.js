@@ -58,7 +58,7 @@ switch(meta){
 let texto = ""
 let frase = ""
 
-if(exp < 501){
+if(exp < 1001){
 texto = " ainda está na graduação "
 frase = " mesmo após alguns embates."
 }
